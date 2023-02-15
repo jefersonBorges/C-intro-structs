@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of C language inside the discipline of data structure 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 C content
 
 - structs
 - setlocale()
@@ -13,7 +13,13 @@ These exercises are a practice of C language inside the discipline of data struc
 
 ---
 
-## Struct - Exercise
+## 🎯 Project Objectives
+
+- Practice of C language pointers
+
+---
+
+### Struct - Exercise
 
 Develop a program, in which it is necessary to store the product of a sports store. The product has the following characteristics:
 code (integer), description (text), price(float), promotion (yes or no).
